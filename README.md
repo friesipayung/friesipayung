@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **GKE and other k8s**
 
-- 💬 Ask me about **java springboot, python**
+- 💬 Ask me about **java, python, or go**
 
-- 📫 How to reach me **friendly+github@volantis.io**
+- 📫 How to reach me **[here](mailto:friendly+github@volantis.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
