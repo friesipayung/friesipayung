@@ -24,4 +24,12 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=friesipayung&" alt="friesipayung" /></p> -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Go       7 hrs 27 mins   ███████████████████░░░░░░   76.00 %
+sh       1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+SQL      56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
