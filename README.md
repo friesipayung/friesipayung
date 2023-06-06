@@ -3,7 +3,7 @@
 
 # Hello! 👋
 
-My name is Friendly Sipayung and I'm a software developer / devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at Volantis.io.
+My name is Friendly Sipayung and I'm a software developer / devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at [Volantis](https://volantis.io) and [W3GG](https://w3gg.io).
 
 ## Get in touch
 
