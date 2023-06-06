@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=friesipayung&label=Profile%20views&color=0e75b6&style=flat" alt="friesipayung" /> </p>
 
 
-# Hello! <img src="https://github.com/friesipayung/friesipayung/main/wave.gif">
+# Hello! <img src="https://raw.githubusercontent.com/friesipayung/friesipayung/main/wave.gif" height="45" style="object-fit:contain; object-position:bottom">
 
 My name is Friendly Sipayung and I'm a software developer / devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at [Volantis](https://volantis.io) and [W3GG](https://w3gg.io).
 
