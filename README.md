@@ -23,6 +23,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=friesipayung&" alt="friesipayung" /></p> -->
 
+<h3 align="left">Code Stats by Waka:</h3>
 <!--START_SECTION:waka-->
 
 ```txt
