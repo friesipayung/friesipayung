@@ -7,8 +7,8 @@ My name is Friendly Sipayung and I'm a software developer / devOps engineer. I'm
 
 ## Get in touch
 
-- 🐦 Twitter [1]
-- 👤 Linkedin [3]
+- 🐦 Twitter [@friesipayung][1]
+- 👤 Linkedin [@friendly-halomoan-sipayung][3]
 - 📫 Reach me **[here](mailto:friendly+github@volantis.io)**
 
 
