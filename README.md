@@ -1,11 +1,9 @@
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=friesipayung&label=Profile%20views&color=0e75b6&style=flat" alt="friesipayung" /> </p>
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/friesipayung/friesipayung/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/friesipayung/friesipayung/main/wave.gif" width="30px" height="30px" />
 
-My name is Friendly Sipayung and I'm a software developer/ devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at Volantis.io. You can find me on [![Twitter][1.2]][1],  or on <iconify-icon icon="mdi:linkedin"></iconify-icon>[3].
+My name is Friendly Sipayung and I'm a software developer/ devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at Volantis.io. You can find me on [![Twitter][1.1]][1], or on [![Linkedin][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -52,7 +50,7 @@ Docker   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-<!-- [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) -->
+[3.2]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg
 
 
 <!-- links to your social media accounts -->
