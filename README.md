@@ -3,7 +3,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/friesipayung/friesipayung/main/wave.gif" width="30px" height="30px" />
 
-My name is Friendly Sipayung and I'm a software developer/ devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at Volantis.io. You can find me on [![Twitter][1.1]][1], or on [![Linkedin][3.2]][3].
+My name is Friendly Sipayung and I'm a software developer/ devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at Volantis.io.
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
