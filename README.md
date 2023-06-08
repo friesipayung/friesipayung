@@ -3,12 +3,13 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/friesipayung/friesipayung/main/wave.gif" height="45" style="object-fit:contain; object-position:bottom">
 
-My name is Friendly Sipayung and I'm a software developer / devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at [Volantis](https://volantis.io) and [W3GG](https://w3gg.io).
+My name is **Friendly Sipayung** and I'm a software developer / devOps engineer. I'm from Indonesia, living in Yogyakarta and currently working at [Volantis](https://volantis.io) and [W3GG](https://w3gg.io).
 
 ## Get in touch
 
-- 🐦 Twitter [@friesipayung][1]
-- 👤 Linkedin [@friendly-halomoan-sipayung][3]
+- 🐦 Twitter **[@friesipayung][1]**
+- 📸 Instagram **[@friendlysipayung][4]**
+- 👤 Linkedin **[@friendly-halomoan-sipayung][3]**
 - 📫 Reach me **[here](mailto:friendly+github@volantis.io)**
 
 
@@ -66,3 +67,4 @@ Docker   0 secs          ░░░░░░░░░░░░░░░░░░�
 [1]: https://twitter.com/friesipayung
 [2]: https://github.com/friesipayung
 [3]: https://www.linkedin.com/in/friendly-halomoan-sipayung/
+[4]: https://instagram.com/friendlysipayung
