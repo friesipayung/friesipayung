@@ -34,15 +34,19 @@ My name is **Friendly Sipayung** and I'm a software developer / devOps engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 01 June 2023 - To: 09 June 2023
 
-Total Time: 28 hrs 36 mins
+Total Time: 31 hrs 27 mins
 
-Go       21 hrs 44 mins  ███████████████████░░░░░░   76.00 %
-sh       4 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-SQL      2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go                   23 hrs 9 mins   ██████████████████▒░░░░░░   73.59 %
+sh                   5 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+SQL                  2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Text                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+GitIgnore file       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+ca65 assembler       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Docker               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+AUTO_DETECTED        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
