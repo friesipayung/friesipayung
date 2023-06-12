@@ -34,19 +34,15 @@ My name is **Friendly Sipayung** and I'm a software developer / devOps engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 10 June 2023
+From: 01 June 2023 - To: 11 June 2023
 
-Total Time: 31 hrs 27 mins
+Total Time: 31 hrs 55 mins
 
-Go                   23 hrs 9 mins   ██████████████████▒░░░░░░   73.59 %
-sh                   5 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-SQL                  2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Go                   23 hrs 35 mins  ██████████████████▒░░░░░░   73.89 %
+sh                   5 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+SQL                  2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 Text                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-GitIgnore file       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-ca65 assembler       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Docker               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-AUTO_DETECTED        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+GitIgnore file       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
