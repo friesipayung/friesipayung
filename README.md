@@ -37,15 +37,15 @@ My name is **Friendly Sipayung** and I'm a software developer / devOps engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 31 March 2024
+From: 01 June 2023 - To: 01 April 2024
 
-Total Time: 850 hrs 38 mins
+Total Time: 854 hrs 6 mins
 
-Go                   412 hrs 16 mins ████████████░░░░░░░░░░░░░   48.47 %
-sh                   176 hrs 42 mins █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-SQL                  106 hrs 1 min   ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-JavaScript           68 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Text                 16 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Go                   414 hrs 37 mins ████████████░░░░░░░░░░░░░   48.55 %
+sh                   177 hrs 17 mins █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+SQL                  106 hrs 15 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+JavaScript           68 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Text                 16 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
