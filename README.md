@@ -30,9 +30,10 @@ My name is **Friendly Sipayung** and I'm a software developer / devOps engineer.
 
 
 ## &#x1f4c8; GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friesipayung&show_icons=true&locale=en&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&&hide=stars,prs,contribs&rank_icon=github" alt="friesipayung" /></p>
+<!-- <p>&nbsp;<a href="https://github.com/friesipayung"><img align="center" src="https://github-readme-stats.vercel.app/api?username=friesipayung&show_icons=true&locale=en&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&&hide=stars,prs,contribs&rank_icon=github" alt="friesipayung" /></a></p> -->
+<p>&nbsp;<a href="https://github.com/friesipayung"><img align="center" src="https://github-readme-stats.vercel.app/api?username=friesipayung&show_icons=true&locale=en&show_icons=true&count_private=true&hide=stars,prs,contribs&rank_icon=github" alt="friesipayung" /></a></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=friesipayung&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub](https://streak-stats.demolab.com?user=friesipayung&hide_border=true&exclude_days=Sun%2CSat)](https://github.com/friesipayung)
 
 ## &#x1f4c8; Code Stats
 <!-- <h3 align="left">Code Stats by Waka:</h3> -->
