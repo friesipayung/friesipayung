@@ -28,8 +28,9 @@ My name is **Friendly Sipayung** and I'm a software developer / devOps engineer.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+
 ## &#x1f4c8; GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friesipayung&show_icons=true&locale=en&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="friesipayung" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friesipayung&show_icons=true&locale=en&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&&hide=stars,prs,contribs&rank_icon=github" alt="friesipayung" /></p>
 
 
 ## &#x1f4c8; Code Stats
