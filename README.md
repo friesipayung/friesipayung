@@ -1,6 +1,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=friesipayung&label=Profile%20views&color=0e75b6&style=flat" alt="friesipayung" />
   <a href="https://wakatime.com/@43ff8861-fadf-405b-85f0-4d5eede0d822"><img src="https://wakatime.com/badge/user/43ff8861-fadf-405b-85f0-4d5eede0d822.svg" alt="Total time coded since Jun 2 2023" /></a>
+  <a href="https://github.com/friesipayung.gpg"><img src="https://img.shields.io/badge/PGP-friesipayung.gpg-blue" alt="friesipayung.gpg GPG Public Key" /></a>
 </p>
 
 
