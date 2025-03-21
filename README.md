@@ -14,7 +14,7 @@ My name is **Friendly Sipayung** and I'm a software developer / devOps engineer.
 - 🐦 Twitter **[@friesipayung][1]**
 - 📸 Instagram **[@friendlysipayung][4]**
 - 👤 Linkedin **[@friendly-halomoan-sipayung][3]**
-- 📫 Reach me **[here](mailto:friendly+github@volantis.io)**
+- 📫 Reach me **[friendlysipayung@duck.com](mailto:friendlysipayung@duck.com)**
 
 
 ## 🔧 Technologies & Tools
