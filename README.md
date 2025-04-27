@@ -41,7 +41,7 @@ My name is **Friendly Sipayung** and I'm a software developer / devOps engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 25 April 2025
+From: 01 June 2023 - To: 26 April 2025
 
 Total Time: 1,925 hrs 4 mins
 
