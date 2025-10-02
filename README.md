@@ -42,15 +42,15 @@ Previously contributed at [W3GG](https://w3gg.io).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 30 September 2025
+From: 01 June 2023 - To: 01 October 2025
 
-Total Time: 2,272 hrs 38 mins
+Total Time: 2,280 hrs 43 mins
 
-Go                         833 hrs 14 mins █████████░░░░░░░░░░░░░░░░   36.66 %
-SQL                        531 hrs 1 min   ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-sh                         378 hrs 53 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Python                     95 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-JavaScript                 77 hrs 28 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Go                         833 hrs 14 mins █████████░░░░░░░░░░░░░░░░   36.53 %
+SQL                        531 hrs 1 min   █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
+sh                         378 hrs 53 mins ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Python                     95 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+JavaScript                 82 hrs 13 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
