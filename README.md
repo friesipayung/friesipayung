@@ -11,7 +11,7 @@ I’m Friendly H. Sipayung, a Backend & DevOps Engineer passionate about buildin
 Previously contributed at [W3GG](https://w3gg.io).
 
 ## Get in touch
-
+- 🕘 Wakatime **[@friesipayung](https://wakatime.com/@friendlyspy)**
 - 🐦 Twitter **[@friesipayung][1]**
 - 📸 Instagram **[@friendlysipayung][4]**
 - 👤 Linkedin **[@friendly-halomoan-sipayung][3]**
