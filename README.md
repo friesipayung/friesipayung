@@ -42,7 +42,7 @@ Previously contributed at [W3GG](https://w3gg.io).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 11 October 2025
+From: 01 June 2023 - To: 12 October 2025
 
 Total Time: 2,319 hrs 20 mins
 
