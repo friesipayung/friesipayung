@@ -69,8 +69,11 @@ Python                     119 hrs 47 mins       █░░░░░░░░░�
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg
 
+<!-- links to tokscale -->
+## &#x1f4c8; LLM Usage
+[![Tokscale Stats](https://tokscale.ai/api/embed/friesipayung/svg?theme=light&compact=1)](https://tokscale.ai/u/friesipayung)
 
-<!-- links to your social media accounts -->
+<!-- links to social media accounts -->
 
 [1]: https://twitter.com/friesipayung
 [2]: https://github.com/friesipayung
