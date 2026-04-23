@@ -7,7 +7,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/friesipayung/friesipayung/main/wave.gif" height="45" style="object-fit:contain; object-position:bottom">
 
-I’m Friendly H. Sipayung, a Backend & DevOps Engineer passionate about building reliable and scalable backend systems. Currently crafting solutions at [Volantis](https://volantis.io).
+I’m Friendly H. Sipayung, a Backend & DevOps Engineer passionate about building reliable and scalable backend systems. Currently crafting solutions at [Volantis](https://volantis.io). <br>
 Previously contributed at [W3GG](https://w3gg.io).
 
 ## Get in touch
